@@ -1,6 +1,6 @@
 # Heart Disease Risk Analysis — Internship Project
 
-> **Author:** Swananda Shridhar Hegde
+> **Author:** Swananda Shridhar Hegde \n
 > **Dataset:** UCI Heart Disease (Cleveland)  
 > **Stack:** Python · Pandas · Matplotlib · Seaborn · Plotly · Dash
 
